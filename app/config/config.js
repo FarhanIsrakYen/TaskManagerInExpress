@@ -1,5 +1,5 @@
 export const PORT = 3000
-export const DATABASE='mongodb+srv://farhanisrak:ilike19942910@practice.scx6j.mongodb.net/'
+export const DATABASE=''
 export const JWT_KEY = 'ugduy9823ywe93df238f0sdfhas'
 export const JWT_EXPIRE_TIME = 30*24*60*60*1000;
 
